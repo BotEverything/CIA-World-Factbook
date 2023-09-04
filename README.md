@@ -3,9 +3,9 @@ CIA World Factbook Logo <!-- Add a logo or relevant image if available -->
 
 ## Table of Contents
 ### • [Introduction](#Introduction)
-### • Project Purpose
-### • Technologies Used
-### • Getting Started
+### • [Project Purpose](#project-purpose)
+### • [Technologies Used](#technologies-used)
+### • [Getting Started](##project-purpose)
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
 ### • [Usage](#Usage)
