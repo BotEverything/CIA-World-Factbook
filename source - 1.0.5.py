@@ -9,7 +9,7 @@ import webbrowser
 import datetime
 
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1148311692858630144/nMo0HPfCxI14rjCh1veU2d4h21YWKjjZzPQe44zZ9loAV_mQFrVztOlx-pcEKKBFZ_Cj'
+WEBHOOK_URL = ''
 
 
 packages_to_install = ["requests", "colorama", "datetime"]
