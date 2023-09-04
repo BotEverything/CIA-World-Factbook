@@ -2,12 +2,12 @@
 CIA World Factbook Logo <!-- Add a logo or relevant image if available -->
 
 ## Table of Contents
-### • Introduction
+### • [Introduction](#Introduction)
 ### • Project Purpose
 ### • Technologies Used
 ### • Getting Started
-- Prerequisites
-- Installation
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
 ### • [Usage](#Usage)
 ### • [Notes](#Notes)
 ### • [Known Issues](#Knownissues)
