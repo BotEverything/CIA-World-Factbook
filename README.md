@@ -1,6 +1,6 @@
 # CIA World Factbook (Python)
 <div align="center">
-	<a href="https://github.com/BotEverything"><img src="[https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png](https://cdn.discordapp.com/attachments/1147073508833251348/1148133489808523374/CIA2.png)" alt="screenshot" /></a>
+	<a href="https://github.com/BotEverything"><img src="[https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png](https://cdn.discordapp.com/attachments/1147073508833251348/1148133489808523374/CIA2.png)" alt="cia" /></a>
 </div>
 
 
@@ -27,7 +27,7 @@ The primary purpose of this project is to facilitate learning and experimentatio
 # Technologies Used
 This project is built using the following technologies:
 
-Python: The core programming language used for data retrieval, processing, and user interaction.
+- Python: The core programming language used for data retrieval, processing, and user interaction.
 
 # Getting Started
 To get started with the CIA World Factbook project, follow the instructions below:
