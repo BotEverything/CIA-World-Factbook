@@ -11,15 +11,6 @@ import datetime
 
 WEBHOOK_URL = ''
 
-
-packages_to_install = ["requests", "colorama", "datetime"]
-for package in packages_to_install:
-    print(f"Installing {package}...")
-    try:
-        subprocess.run(["pip", "install", package], check=True)
-        print(f"{package} installed successfully.")
-    except subprocess.CalledProcessError:
-        print(f"Failed to install {package}. Please install it manually.")
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
 clear_screen()
