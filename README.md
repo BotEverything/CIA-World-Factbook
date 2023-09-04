@@ -10,7 +10,7 @@ CIA World Factbook Logo <!-- Add a logo or relevant image if available -->
 - [Installation](#Installation)
 ### • [Usage](#Usage)
 ### • [Notes](#Notes)
-### • [Known Issues](#Knownissues)
+### • [Known Issues](#known-issues)
 ### • [Contributing](#Contributing)
 ### • [License](#License)
 
