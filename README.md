@@ -1,6 +1,6 @@
 # CIA World Factbook (Python)
 <div align="center">
-	<a href="https://github.com/BotEverything"><img src="[https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png](https://cdn.discordapp.com/attachments/1147073508833251348/1148133489808523374/CIA2.png)" alt="cia" /></a>
+	<a href="https://github.com/BotEverything"><img src="https://cdn.discordapp.com/attachments/1147073508833251348/1148302320040415375/CIA_250x250.png" alt="cia" /></a>
 </div>
 
 
