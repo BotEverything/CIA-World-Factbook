@@ -32,21 +32,21 @@ To get started with the CIA World Factbook project, follow the instructions belo
 ## Prerequisites
 Python: Ensure that you have Python installed on your machine.
 ## Installation
-Download the Executable (Windows): If you're using Windows, you can download the executable (exe) file provided in the repository's releases. This standalone executable allows you to run the project without any additional setup.
+1. **Download the Executable (Windows):** If you're using Windows, you can download the executable (exe) file provided in the repository's releases. This standalone executable allows you to run the project without any additional setup.
 
-Download the Python Raw File: If you prefer running the project as a Python script, you can download the Python raw file from the repository.
+2. **Download the Python Raw File:** If you prefer running the project as a Python script, you can download the Python raw file from the repository.
 
 # Usage
 Once you have the project installed or the Python raw file downloaded, you can run it to access CIA World Factbook data. Here's how to use the project:
 
-Select Data Type: Choose whether you want to explore country area information or population data.
+1. **Select Data Type:** Choose whether you want to explore country area information or population data.
 
-Select a Country: Browse the list of available countries and select the one you're interested in.
+2. **Select a Country:** Browse the list of available countries and select the one you're interested in.
 
-View Information: The project will display detailed information about the selected country, including area or population, world rank, and region.
+3. **View Information:** The project will display detailed information about the selected country, including area or population, world rank, and region.
 
 # Notes
-For more information on the CIA World Factbook and the data it provides, you can visit the CIA website.
+For more information on the CIA World Factbook and the data it provides, you can visit the [CIA website](https://www.cia.gov/the-world-factbook/).
 # Known Issues
 Currently, there are no known issues with the project. If you encounter any problems or have suggestions for improvements, please let us know.
 # Contributing
