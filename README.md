@@ -11,7 +11,7 @@ CIA World Factbook Logo <!-- Add a logo or relevant image if available -->
 ### • Usage
 ### • Notes
 ### • Known Issues
-### • Contributing
+### • [Contributing](https://github.com/BotEverything/CIA-World-Factbook/blob/main/README.md#contributing)
 ### • License
 
 
