@@ -57,7 +57,7 @@ We welcome contributions from the community. If you have ideas for enhancements,
 Your contributions help make this project even better!
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/BotEverything/CIA-World-Factbook/blob/main/LICENSE) file for details.
 
 Thank you for using the CIA World Factbook project! We hope you find it both educational and enjoyable. Explore the world of data and enhance your Python skills while delving into fascinating country statistics. If you have any questions or need assistance, don't hesitate to reach out.
 
