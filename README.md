@@ -8,11 +8,11 @@ CIA World Factbook Logo <!-- Add a logo or relevant image if available -->
 ### • Getting Started
 - Prerequisites
 - Installation
-### • Usage
-### • Notes
-### • Known Issues
+### • [Usage](#Usage)
+### • [Notes](#Notes)
+### • [Known Issues](#Knownissues)
 ### • [Contributing](#Contributing)
-### • License
+### • [License](#License)
 
 
 # Introduction
