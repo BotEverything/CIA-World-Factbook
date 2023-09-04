@@ -5,7 +5,7 @@ CIA World Factbook Logo <!-- Add a logo or relevant image if available -->
 ### • [Introduction](#Introduction)
 ### • [Project Purpose](#project-purpose)
 ### • [Technologies Used](#technologies-used)
-### • [Getting Started](##project-purpose)
+### • [Getting Started](#getting-started)
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
 ### • [Usage](#Usage)
